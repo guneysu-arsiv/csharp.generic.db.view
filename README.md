@@ -1,3 +1,5 @@
 # csharp.uygulama.generic.db.view
-Öylemesine
-![Screenshot.png](Screenshot.png)
+### Simple Universal DB Viewer for SQL Server
+
+![ListView.PNG](SListView.PNG)
+![DataGridView.PNG](DataGridView.PNG)
